@@ -1,0 +1,14 @@
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\bin\Debug\net8.0\TDEAULA04.exe
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\bin\Debug\net8.0\TDEAULA04.deps.json
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\bin\Debug\net8.0\TDEAULA04.runtimeconfig.json
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\bin\Debug\net8.0\TDEAULA04.dll
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\bin\Debug\net8.0\TDEAULA04.pdb
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\obj\Debug\net8.0\TDEAULA04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\obj\Debug\net8.0\TDEAULA04.AssemblyInfoInputs.cache
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\obj\Debug\net8.0\TDEAULA04.AssemblyInfo.cs
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\obj\Debug\net8.0\TDEAULA04.csproj.CoreCompileInputs.cache
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\obj\Debug\net8.0\TDEAULA04.dll
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\obj\Debug\net8.0\refint\TDEAULA04.dll
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\obj\Debug\net8.0\TDEAULA04.pdb
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\obj\Debug\net8.0\TDEAULA04.genruntimeconfig.cache
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA04\obj\Debug\net8.0\ref\TDEAULA04.dll
